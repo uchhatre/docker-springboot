@@ -20,4 +20,5 @@ Usage in docker compose:
      - APP_PROP=/mnt/application.properties
      - APP_JAR=/mnt/springbootapp-0.1.0.jar
      - NR_KEY=YOUR_NEW_RELIC_KEY
+     - MEM_GB=1
 ```
